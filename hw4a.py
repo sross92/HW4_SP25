@@ -1,3 +1,6 @@
+#Used ChatGPT to help integrate numpy & scipy into code
+#Used Dr.Smays X1SP25_1 for reference to make sure outputs were generating values accurately
+#Used Exam1p1 from my exam as base code to build off of
 import math  # Import math for mathematical functions (e.g., sqrt, log, exp)
 import numpy as np  # Import NumPy for efficient numerical and array operations
 from scipy.integrate import quad  # Import quad for numerical integration
